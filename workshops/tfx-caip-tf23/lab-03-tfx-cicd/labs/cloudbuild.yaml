@@ -42,7 +42,6 @@ steps:
   - 'USE_KFP_SA=$_USE_KFP_SA'
   - 'ENABLE_TUNING=$_ENABLE_TUNING'
   dir: $_PIPELINE_FOLDER
-  options:
   logging: NONE
 
 
